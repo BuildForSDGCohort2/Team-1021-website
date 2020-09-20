@@ -1,17 +1,9 @@
 {
-  "name": "NearForGood.com",
+  "name": "Esdifi.com",
   "version": "0.1.0",
-  "description": "Website: NearForGood.com",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NearForGood/nearforgood.com.git"
-  },
+  "description": "Website: Esdifi.com",
   "keywords": [],
   "author": "",
-  "bugs": {
-    "url": "https://github.com/NearForGood/nearforgood.com/issues"
-  },
-  "homepage": "https://github.com/NearForGood/nearforgood.com#readme",
   "dependencies": {
     "tailwindcss": "^1.6.2"
   }
