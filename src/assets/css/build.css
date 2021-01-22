@@ -668,10 +668,6 @@ video {
   flex-direction: row;
 }
 
-.flex-col {
-  flex-direction: column;
-}
-
 .flex-col-reverse {
   flex-direction: column-reverse;
 }
@@ -960,10 +956,6 @@ video {
     flex-direction: row;
   }
 
-  .md\:items-start {
-    align-items: flex-start;
-  }
-
   .md\:items-center {
     align-items: center;
   }
@@ -982,10 +974,6 @@ video {
 
   .md\:mt-0 {
     margin-top: 0;
-  }
-
-  .md\:w-3\/4 {
-    width: 75%;
   }
 }
 
