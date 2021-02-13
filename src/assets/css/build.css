@@ -723,10 +723,6 @@ video {
   width: 8rem;
 }
 
-.w-2\/3 {
-  width: 66.666667%;
-}
-
 .w-full {
   width: 100%;
 }
@@ -829,6 +825,10 @@ video {
 
   .md\:mt-0 {
     margin-top: 0px;
+  }
+
+  .md\:w-2\/3 {
+    width: 66.666667%;
   }
 }
 
